@@ -1,0 +1,80 @@
+{
+  "competences": [
+    {
+      "description": "Maîtrise progressive des compétences en communication et en apprentissage linguistique.",
+      "objectives": [
+        "Travailler les disciplines d'enseignement pour développer des compétences fixées par le référentiel.",
+        "Mobiliser savoirs et savoir-faire pour la résolution de problèmes de communication."
+      ],
+      "tasks": [
+        {
+          "name": "Accord du participe passé",
+          "details": "Être capable d'utiliser la règle d'accord dans des situations de communication complexes."
+        },
+        {
+          "name": "Tâches-problèmes en communication",
+          "details": "Favoriser la maîtrise des compétences en lecture, écriture, parole et écoute par des tâches significatives et contextuelles."
+        },
+        {
+          "name": "Lecture et compréhension",
+          "details": "Développer la capacité à comprendre et interpréter un texte, en utilisant des indices explicites et implicites."
+        }
+      ]
+    }
+  ],
+  "savoir_faire": [
+    {
+      "domain": "Lecture",
+      "skills": [
+        "Orienter sa lecture selon la situation de communication.",
+        "Repérer des informations dans un texte ou un document visuel.",
+        "Adapter sa stratégie de lecture au type de texte et au temps disponible."
+      ],
+      "tasks": [
+        {
+          "name": "Lecture à voix haute",
+          "details": "Pratiquer la lecture avec une compréhension mentale préalable."
+        },
+        {
+          "name": "Analyse de l'intention de l'auteur",
+          "details": "Saisir les intentions comme informer, persuader, émouvoir, etc."
+        }
+      ]
+    },
+    {
+      "domain": "Écriture",
+      "skills": [
+        "Rédiger des textes variés en fonction des intentions (informer, persuader, divertir, enjoindre).",
+        "Utiliser des modèles de textes pour structurer ses écrits.",
+        "Prendre en compte le destinataire dans les projets d'écriture."
+      ],
+      "tasks": [
+        {
+          "name": "Rédaction de faits divers",
+          "details": "Étudier le genre avant d'en produire un exemple."
+        },
+        {
+          "name": "Production de textes narratifs",
+          "details": "Observer des modèles pour anticiper et organiser l'écriture."
+        }
+      ]
+    },
+    {
+      "domain": "Parole et Écoute",
+      "skills": [
+        "Respecter la parole des autres et savoir prendre la parole.",
+        "Adapter son écoute et son discours selon le contexte et l'auditoire."
+      ],
+      "tasks": [
+        {
+          "name": "Échanges oraux sur des textes lus",
+          "details": "Organiser des échanges sur des textes pour développer une attitude positive vis-à-vis de la lecture."
+        },
+        {
+          "name": "Interview et enquêtes",
+          "details": "Conduire des interviews pour recueillir et traiter des informations."
+        }
+      ]
+    }
+  ]
+}
